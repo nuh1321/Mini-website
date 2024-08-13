@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.brand-name{
+    font-family: "Faster One", system-ui;
+}
+h1{
+    font-family: "Quicksand", sans-serif;
+
+}
+.hero-sec{
+    padding: 80px;
+}
+button{
+padding: 29px;
+}
+.container h1{
+    font-family: "Quicksand", sans-serif;
+  
+}
+.container p{
+    text-align: justify;
+}
+footer{
+    text-align: start;
+    margin-left: 90px;
+    color: rgb(124, 122, 122);
+}
